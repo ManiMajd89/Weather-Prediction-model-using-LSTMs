@@ -1,3 +1,6 @@
+# UTRA Robotics Team Project
+# Perception Subteam, December 2024
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
