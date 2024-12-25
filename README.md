@@ -33,7 +33,11 @@ The project uses a weather dataset (`FullWeatherData_Toronto.csv`) containing mu
 
 Install dependencies using:
 ```bash
-pip install numpy pandas torch scikit-learn matplotlib
+pip install numpy
+pip install pandas
+pip install torch
+pip install scikit-learn
+pip install matplotlib
 ```
 
 ## Usage
